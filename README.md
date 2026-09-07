@@ -11,5 +11,5 @@ Complete Python/SQL diagnostic pipeline and data transformations in Google Colla
 Complete Report according to Guidelines
 
 ## 🔗 External Links
-Video Presentation: 
+Video Presentation: https://drive.google.com/file/d/1kPj0yPMLdt0PWDhNb9OBdHW2qY6whVMC/view?usp=drivesdk
 Live Colab Notebook**: https://colab.research.google.com/drive/1MN09w07fM5aJyzZoLWf4_aG7gWhs-4ic?usp=sharing
